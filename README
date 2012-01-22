@@ -1,0 +1,29 @@
+HTML+CSS+JS application for viewing and quering a catalog of books. 
+Main feature and core design premise was that user should be able to use this 
+catalog locally, without the web server. So, things like server-side scripting 
+and AJAX are prohibited.
+
+The books list itself maintained as the XML+XSLT document. To fill the list
+a couple of Perl scripts was assembled, which translate plaintext description
+into XML of catalog.
+
+The catalog app lies in 'testbin' subfolder. 
+To run open testbin/books-catalog.html in the web browser.
+In 'paper' subfolder placed an article describing the project.
+
+--
+STATUS @ 2011.09.26 20:24
+Demo data exists in the database. Basic interface designed and implemented.
+Data importer from regular plaintext to XML developed.
+Project is usable but somewhat ugly and not completely cross-browser compatible.
+
+
+TODO:
+1. Make data importers from CSV to XML.
+2. Make interactive script for inserting data to database.
+3. Make list of book categories dynamically generated. Now it is constantly
+     defined in javascript (boo!).
+4. Make code beautiful.
+
+Estimated work: 30 hours.
+Planned work period: January-February 2011.

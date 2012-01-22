@@ -1,0 +1,46 @@
+body {
+  font-size: 12pt;
+  }
+
+h1, h2, h3, h4 {
+  font-size: 1.2em;
+  }
+
+#category-selector {
+	width: 80%;
+	float: left;
+	margin-right: 20%;
+}
+
+#parameters-panel {
+	width: 18%;
+	float: left;
+	margin-left: -19%;
+}
+
+#catalog, #options {
+	clear: both;
+	float: none;
+	width: 100%;
+}
+
+#select-button {
+	margin-top: 1em;
+	width: 100%;
+}
+
+#filler-image {
+  width: 100%;
+  }
+
+.ui-accordion .ui-accordion-header a {
+  padding: 0 2em;
+  }
+  
+.ui-button-text-only .ui-button-text {
+  padding: 0 1em;
+  }
+  
+.ui-accordion .ui-accordion-content {
+  padding: 0.3em 1em;
+  }

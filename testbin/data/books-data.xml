@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+  <book category="Для школьного возраста">
+    <name>Величие подвига Николая Островского</name>
+    <image>velitchie-podviga-nikolaya-ostrovskogo.jpg</image>
+    <author>М. В. Ширяева и В. И. Тимофеев</author>
+    <publisher>Просвещение</publisher>
+    <city>М.</city>
+    <year>1964</year>
+    <description>Пособие для учащихся, сборник рассказов.</description>
+    <pagenum>176 стр.</pagenum>
+    <condition>Повреждены (прорезаны) последние страницы.</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Рассказы.</name>
+    <author>А. С. Серафимович.</author>
+    <image>serafimovich-rasskazi.jpg</image>
+    <publisher>Правда</publisher>
+    <city>М.</city>
+    <year>1984</year>
+    <description>Рассказы и повести.</description>
+    <pagenum>400 стр.</pagenum>
+    <condition>Целая.</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Собрание сочинений в 9 томах. Том 1</name>
+    <image>sobranie-sotchineniy-erenburg-tom-1.jpg</image>
+    <author>Илья Эренбург</author>
+    <publisher>Госиздхудлит</publisher>
+    <city>М.</city>
+    <year>1962</year>
+    <description>Рассказы и повести.</description>
+    <pagenum>535 стр.</pagenum>
+    <condition>Потёртый корешок.</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Переплетения</name>
+    <image>skul'skii-perepleteniya.jpg</image>
+    <author>Григорий Скульский</author>
+    <publisher>Ээсти раамат</publisher>
+    <city>Таллин</city>
+    <year>1972</year>
+    <description>Повести и рассказы разных лет.</description>
+    <pagenum>658 стр.</pagenum>
+    <condition>Целая.</condition>
+  </book>
+  <book category="Сказки">
+    <name>Руслан и Людмила</name>
+    <image>ruslan-i-lyudmila-pushkin.jpg</image>
+    <author>Пушкин</author>
+    <publisher>Чечено-ингушское издательство "Грозный"</publisher>
+    <city>--</city>
+    <year>1973</year>
+    <description>Поэма.</description>
+    <pagenum>118 стр.</pagenum>
+    <condition>Мягкая потрёпанная обложка</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Парус</name>
+    <image>parus-lermontov.jpg</image>
+    <author>Лермонтов М. Ю.</author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1976</year>
+    <description>Стихи.</description>
+    <pagenum>64 стр.</pagenum>
+    <condition>Мягкая обложка.</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Шильонский узник</name>
+    <image>shil`onskiy-uznik-bayron-1.jpg</image>
+    <image>shil`onskiy-uznik-bayron-2.jpg</image>
+    <author>Д. Г. Байрон</author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1980</year>
+    <description>Поэма</description>
+    <pagenum>48 стр.</pagenum>
+    <condition>мягкая обложка.</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Пушкин в изгнании. Том 1.</name>
+    <image>pushkin-v-izgnanii-novikov.jpg</image>
+    <author>И. А. Новиков.</author>
+    <publisher>Государственное изд-во худ. лит.</publisher>
+    <city>М.</city>
+    <year>1955</year>
+    <description>Роман в 3 томах.</description>
+    <pagenum>415 стр.</pagenum>
+    <condition>целая.</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Избранные сочинения</name>
+    <author>Р. М. Рильке</author>
+    <image>izbrannie-sotchineniya-ril`ke.jpg</image>
+    <publisher>Рипол классик</publisher>
+    <city>М.</city>
+    <year>1998</year>
+    <description>Зарубежная классика</description>
+    <pagenum>704 стр.</pagenum>
+    <condition>целая.</condition>
+  </book>
+  <book category="Поэзия">
+    <name>О вечном</name>
+    <image>o-vetchnom-ronsar.jpg</image>
+    <author>Пьер Роснар</author>
+    <publisher>Летопись</publisher>
+    <city>М.</city>
+    <year>1996</year>
+    <description>Избранная лирика.</description>
+    <pagenum>286 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Сонеты</name>
+    <author>Уильям Шекспир</author>
+    <image>soneti-shekspir.jpg</image>
+    <publisher>Летопись</publisher>
+    <city>М.</city>
+    <year>1996</year>
+    <description>Сонеты</description>
+    <pagenum>167 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Рубаи</name>
+    <image>hayyam-rubai-letopis`.jpg</image>
+    <author>Омар Хайям</author>
+    <publisher>Летопись</publisher>
+    <city>М.</city>
+    <year>1996</year>
+    <description>Рубаи</description>
+    <pagenum>463 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Лирика</name>
+    <image>poeticheskaya-rossiya-blok.jpg</image>
+    <author>А. Блок</author>
+    <publisher>Советская Россия</publisher>
+    <city>М.</city>
+    <year>1970</year>
+    <description>Сборник лирических произведений</description>
+    <pagenum>368 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Стихотворения</name>
+    <author>Марина Цветаева</author>
+    <image>stihotvoreniya-tcvetaeva.jpg</image>
+    <publisher>Татарское книжное изд-во</publisher>
+    <city>Казань</city>
+    <year>1984</year>
+    <description>Поэзия</description>
+    <pagenum>272 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Пьесы</name>
+    <author>Гоголь</author>
+    <image>p`esi-gogol`.jpg</image>
+    <publisher>Правда</publisher>
+    <city>М.</city>
+    <year>1983</year>
+    <description>Сборник пьес</description>
+    <pagenum>272 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Пловец</name>
+    <image>plovetc-yazikov.jpg</image>
+    <author>Языков Н. М.</author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1975</year>
+    <description>Избранная лирика</description>
+    <pagenum>191 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Рассказы о Суворове и русских солдатах.</name>
+    <image>rasskazi-o-suvorove-i-russkih-soldatah.jpg</image>
+    <author>Сергей Алексеев</author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1990</year>
+    <description>Сборник рассказов</description>
+    <pagenum>128 стр.</pagenum>
+    <condition>потрёпанная</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Гармония контрастов</name>
+    <image>garmoniya-kontrastov-severyanin.jpg</image>
+    <author>Игорь Северянин</author>
+    <publisher>Летопись</publisher>
+    <city>М.</city>
+    <year>1995</year>
+    <description>Стихотворения</description>
+    <pagenum>381 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Комедии в 2-х томах. Том 1.</name>
+    <author>Аристофан</author>
+    <image>aristofan-komedii.jpg</image>
+    <publisher>Искусство</publisher>
+    <city>М.</city>
+    <year>1983</year>
+    <description>Античные комедии</description>
+    <pagenum>440 стр.</pagenum>
+    <condition>целая.</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Ночные бдения</name>
+    <image>notchnie-bdeniya-bonaventura.jpg</image>
+    <author>Бонавентура</author>
+    <publisher>Наука</publisher>
+    <city>М.</city>
+    <year>1990</year>
+    <description>Художественная литература</description>
+    <pagenum>254 стр.</pagenum>
+    <condition>целая.</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Стихотворения. Поэмы.</name>
+    <author>Сергей Есенин</author>
+    <image>stihotvoreniya-esenin.jpg</image>
+    <publisher>Художественная литература</publisher>
+    <city>М.</city>
+    <year>1982</year>
+    <description>Стихотворения и поэмы</description>
+    <pagenum>479 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Про Федота-Стрельца, наглеца и подлеца</name>
+    <author>Георгий Фрумкер</author>
+    <image>frumker-pro-fedota-strel`tsa-podletsa.jpg</image>
+    <publisher>Эксмо-пресс</publisher>
+    <city>М.</city>
+    <year>2002</year>
+    <description>Сказка</description>
+    <pagenum>384 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+		<name>Спецназ (серия)</name>
+    <author>Михаил Нестеров</author>
+    <image>seriya-spetcnaz-nesterov.jpg</image>
+    <publisher>---</publisher>
+    <city></city>
+    <year>2008</year>
+    <description>Серия "Спецназ", 12 книг. Художественная литература, боевик</description>
+    <pagenum>~200 стр.</pagenum>
+    <condition>мягкая обложка.</condition>
+  </book>
+  <book category="Сказки">
+    <name>Капитан Коко и зелёное стёклышко</name>
+    <image>kapitan-koko.jpg</image>
+    <author>Лев Кузьмин</author>
+    <publisher>Советская Россия</publisher>
+    <city>М.</city>
+    <year>1971</year>
+    <description>Детская сказка</description>
+    <pagenum>127 стр.</pagenum>
+    <condition>потрёпанная</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Тарзан. Отметина красной гиены.</name>
+    <image>tarzan-otmetina-krasnoy-gieni.jpg</image>
+    <author>Джордж С. Элрик</author>
+    <publisher>ООО "Акация"</publisher>
+    <city>СПб</city>
+    <year>1992</year>
+    <description>Иллюстрированный рассказ на рус. и англ. языках.</description>
+    <pagenum>222 стр.</pagenum>
+    <condition>оторванная обложка</condition>
+  </book>
+  <book category="Сказки">
+    <name>Сказки</name>
+    <author>А. С. Пушкин</author>
+    <publisher>---</publisher>
+    <city>--</city>
+    <year>----</year>
+    <description>----</description>
+    <pagenum>XX стр.</pagenum>
+    <condition>очень плохое состояние</condition>
+  </book>
+  <book category="Сказки">
+    <name>Разноцветные зверята</name>
+    <image>raznotsvetnie-zveryata.jpg</image>
+    <author>М. Пляцковский</author>
+    <publisher>Малыш</publisher>
+    <city>М.</city>
+    <year>1994</year>
+    <description>Сказки в картинках</description>
+    <pagenum>80 стр.</pagenum>
+    <condition>очень плохое состояние</condition>
+  </book>
+  <book category="Сказки">
+    <name>Русские народные сказки</name>
+    <image>russkie-narodnie-skazki-spb.jpg</image>
+    <author>---</author>
+    <publisher>---</publisher>
+    <city>СПб</city>
+    <year>1992</year>
+    <description></description>
+    <pagenum>192 стр.</pagenum>
+    <condition>Целая, первая страница выдрана</condition>
+  </book>
+  <book category="Медицина">
+    <name>Руководство по акушерству и гинекологии. Том 3 в двух книгах, книга 2</name>
+    <image>rukovodstvo-po-akusherstvu-i-ginekologii.jpg</image>
+    <author></author>
+    <publisher>Медицина</publisher>
+    <city>М.</city>
+    <year>1964</year>
+    <description></description>
+    <pagenum>895 стр.</pagenum>
+    <condition>потрёпанная обложка</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Родные нивы</name>
+    <image>rodnie-nivi.jpg</image>
+    <author></author>
+    <publisher>Художественная литература</publisher>
+    <city>М.</city>
+    <year>1984</year>
+    <description>Поэзия XIX - начала XX вв.</description>
+    <pagenum>480 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Детективы">
+    <name>Место встречи назначает пуля</name>
+    <image>mesto-vstrechi-naznachaet-pulya.jpg</image>
+    <author>Леонов, Макеев</author>
+    <publisher>Эксмо</publisher>
+    <city>М.</city>
+    <year>2009</year>
+    <description>Повесть, боевик</description>
+    <pagenum>320 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Познавательные">
+    <name>Физика с приколами</name>
+    <image>fizika-s-prikolami.jpg</image>
+    <author>Григорий Остер</author>
+    <publisher>Астрель</publisher>
+    <city>М.</city>
+    <year>2000</year>
+    <description></description>
+    <pagenum>64 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>----</name>
+    <author>А. Бушков</author>
+    <image>seriya-piran`ya-bushkov.jpg</image>
+    <publisher>--</publisher>
+    <city>--</city>
+    <year>--</year>
+    <description>Серия книг "Пиранья", 6 книг. Боевик.</description>
+    <pagenum>~200 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Лиры и трубы</name>
+    <image>liri-i-trubi.jpg</image>
+    <author></author>
+    <publisher>Изд-во детской лит-ры "Веселка"</publisher>
+    <city>Киев</city>
+    <year>1976</year>
+    <description>Русская поэзия XVIII в.</description>
+    <pagenum>335 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Избранное</name>
+    <author>Елизавета Стюарт</author>
+    <image>izbrannoe-elizaveta-styuart.jpg</image>
+    <publisher>Западно-сибирское издательство "Новосибирск"</publisher>
+    <city>Новосибирск</city>
+    <year>1970</year>
+    <description>Классическая литература</description>
+    <pagenum>240 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Мой Марс</name>
+    <image>moy-mars-shmelyov.jpg</image>
+    <author>И. С. Шмелёв</author>
+    <publisher>Советская Россия</publisher>
+    <city>М.</city>
+    <year>1990</year>
+    <description>Сборник рассказов</description>
+    <pagenum>288 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Сказки">
+    <name>Наши сказки. Книга 3</name>
+    <author></author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1969</year>
+    <description>Сказки народов разных стран</description>
+    <pagenum>208 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Сказки">
+    <name>Не на небе - на земле, том 3</name>
+    <image>ne-na-nebe-na-zemle-skazki.jpg</image>
+    <author></author>
+    <publisher>Литера</publisher>
+    <city>Иркутск</city>
+    <year>1992</year>
+    <description>Русские сказки восточной сибири</description>
+    <pagenum>336 стр.</pagenum>
+    <condition>плохо отреставрированная</condition>
+  </book>
+  <book category="Сказки">
+    <name>Зимняя сказка</name>
+    <image>zimnyaya-skazka.jpg</image>
+    <author>Сакариас Стопелиус</author>
+    <publisher>Прогресс</publisher>
+    <city>М.</city>
+    <year>--</year>
+    <description>Сборник сказок</description>
+    <pagenum>104 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Солдат Пешкин и компания</name>
+    <image>soldat-peshkin-i-kompaniya.jpg</image>
+    <author>Ефим Чеповецкий</author>
+    <publisher>Предприятие "Вен-Мер"</publisher>
+    <city>--</city>
+    <year>1992</year>
+    <description>Сказки</description>
+    <pagenum>272 стр.</pagenum>
+    <condition>обложка отрывается</condition>
+  </book>
+  <book category="Сказки">
+    <name>Русские народные сказки и былины</name>
+    <image>russkie-narodnie-skazki-i-bilini.jpg</image>
+    <author></author>
+    <publisher>Терра-книжный клуб</publisher>
+    <city>М.</city>
+    <year>1999</year>
+    <description></description>
+    <pagenum>368 стр.</pagenum>
+    <condition>прекрасное состояние</condition>
+  </book>
+  <book category="Сказки">
+    <name>Храбрый Мэргэн</name>
+    <image>hrabriy-mergen-skazki-priamur`ya.jpg</image>
+    <author></author>
+    <publisher>Россия</publisher>
+    <city>М.</city>
+    <year>1992</year>
+    <description>Сказки народов Приамурья</description>
+    <pagenum>736 стр.</pagenum>
+    <condition>обложка отрывается.</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Избранное</name>
+    <author>Некрасов</author>
+    <publisher>Терра-книжный клуб</publisher>
+    <city>М.</city>
+    <year>1998</year>
+    <description>Избранные поэмы и стихотворения Некрасова</description>
+    <image>izbrannoe-nekrasov-terra.jpg</image>
+    <pagenum>400 стр.</pagenum>
+    <condition>прекрасное состояние</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Слово о полку Игореве</name>
+    <image>slovo-o-polku-igoreve.jpg</image>
+    <author></author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1979</year>
+    <description>Былина</description>
+    <pagenum>221 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Воспитание детей">
+    <name>Потягушеньки-порастушеньки</name>
+    <image>potyagushen`ki-porastushen`ki.jpg</image>
+    <author></author>
+    <publisher>Пермская книга</publisher>
+    <city>---</city>
+    <year>1993</year>
+    <description>Пестушки, потешки, колыбельные, etc для малышей</description>
+    <pagenum>142 стр.</pagenum>
+    <condition>изрисованная обложка </condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>Всемирная история. Том 9</name>
+    <image>vsemirnaya-istoriya-tom-5.jpg</image>
+    <author></author>
+    <publisher>Издательство социально-экономической литературы</publisher>
+    <city>М.</city>
+    <year>1962</year>
+    <description>Энциклопедия</description>
+    <pagenum>750 стр.</pagenum>
+    <condition>старая</condition>
+  </book>
+  <book category="Воспитание детей">
+    <name>Программа развития и обучения дошкольника от 1 до 3 лет</name>
+    <image>programma-razvitiya-i-obucheniya-doshkol`nika.jpg</image>
+    <author></author>
+    <publisher>Нева</publisher>
+    <city>СПб.</city>
+    <year>2000</year>
+    <description></description>
+    <pagenum>96 стр.</pagenum>
+    <condition>порванный корешок</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>Избранные произведения. Том 5 часть 2</name>
+    <author>Абу Райхан Беруни</author>
+    <image>beruni-tom-5.jpg</image>
+    <publisher>Фан</publisher>
+    <city>Ташкент</city>
+    <year>1976</year>
+    <description>Трактат по астрономии X века</description>
+    <pagenum>634 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Стандинг</name>
+    <author>Сан-Антонио</author>
+    <image>standing-san-antonio.jpg</image>
+    <publisher>СП Соваминко совместно с изд-вом "Русский Медведь"</publisher>
+    <city>М.</city>
+    <year>1992</year>
+    <description>Правила хорошего тона в изложении старшего инспектора Александра-Бенуа Берюрье. Курс лекций.</description>
+    <pagenum>320 стр</pagenum>
+    <condition>целая.</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>В небе Севера</name>
+    <image>v-nebe-severa-beskorovayniy.jpg</image>
+    <author>Бескоровайный А. И.</author>
+    <publisher>Изд-во ДОСААФ</publisher>
+    <city>М.</city>
+    <year>1986</year>
+    <description>Повесть</description>
+    <pagenum>127 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Практическая психология">
+    <name>Практическая психология для подростков, или как найти своё место в жизни</name>
+    <author>Ди Снайдер</author>
+    <image>praktitcheskaya-psihologiya-dlya-podrostkov-di-snayder.jpg</image>
+    <publisher>АСТ-Пресс</publisher>
+    <city>М.</city>
+    <year>1998</year>
+    <description>Психология для подростков</description>
+    <pagenum>288 стр.</pagenum>
+    <condition>новая</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>Мысли о современной математике и её изучении</name>
+    <author>Л. Д. Кудрявцев</author>
+    <publisher>Наука</publisher>
+    <city>М.</city>
+    <year>1977</year>
+    <description></description>
+    <pagenum>112 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Воспитание детей">
+    <name>Развитие интеллектуальных способностей школьника</name>
+    <image>razvitie-intellektual`nih-sposobnostey-shkol`nika.jpg</image>
+    <author>Л. Ф. Тихомирова</author>
+    <publisher>Академия развития</publisher>
+    <city>Ярославль</city>
+    <year>1996</year>
+    <description>Популярное пособие для родителей и педагогов</description>
+    <pagenum>240 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Домашнее хозяйство">
+    <name>Домострой</name>
+    <image>domostroy.jpg</image>
+    <author></author>
+    <publisher>Советская Россия</publisher>
+    <city>М.</city>
+    <year>1990</year>
+    <description></description>
+    <pagenum>304 стр.</pagenum>
+    <condition>новая</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>От чёрных облаков к чёрным дырам</name>
+    <author>Джон Нарликар</author>
+    <publisher>Энергоатомиздат</publisher>
+    <city>М.</city>
+    <year>1989</year>
+    <description></description>
+    <pagenum>141 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Справочники &#8212; разное">
+    <name>Справочник хозяйственника службы быта в двух томах, том 1</name>
+    <image>spravotchnik-hozyaystvennika-tom-1.jpg</image>
+    <author></author>
+    <publisher>Лёгкая индустрия</publisher>
+    <city>М.</city>
+    <year>1973</year>
+    <description></description>
+    <pagenum>296 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Справочники &#8212; разное">
+    <name>Пособие инженера службы техники безопасности</name>
+    <author></author>
+    <image>posobie-inzhenera-sluzhbi-tehniki-bezopasnosti.jpg</image>
+    <publisher>Будивельник</publisher>
+    <city>Киев</city>
+    <year>1975</year>
+    <description></description>
+    <pagenum>224 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Музыка">
+    <name>Гармония.</name>
+    <author>Т. Мюллер</author>
+    <image>garmoniya-myuller.jpg</image>
+    <publisher>Музыка</publisher>
+    <city>М.</city>
+    <year>1981</year>
+    <description>Учебник по гармонии для консерваторий</description>
+    <pagenum>295 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>Эксперимент, теория, практика</name>
+    <author>П. Л. Капица</author>
+    <publisher>Наука</publisher>
+    <city>М.</city>
+    <year>1981</year>
+    <description>Статьи и выступления</description>
+    <pagenum>494 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Справочники &#8212; разное">
+    <name>Материально-техническое снабжение социалистического промышленного предприятия</name>
+    <author>П. А. Шейн</author>
+    <image>material`no-tehnitcheskoe-snabzhenie.jpg</image>
+    <publisher>--</publisher>
+    <city>М.</city>
+    <year>1959</year>
+    <description></description>
+    <pagenum>366 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Справочники &#8212; разное">
+    <name>Справочник капитана дальнего плавания</name>
+    <author></author>
+    <image>spravotchnik-kapitana-dal`nego-plavaniya.jpg</image>
+    <publisher>Транспорт</publisher>
+    <city>Ленинград</city>
+    <year>1964</year>
+    <description></description>
+    <pagenum>704 стр.</pagenum>
+    <condition>старая</condition>
+  </book>
+  <book category="Сказки">
+    <name>Голубая роза</name>
+    <image>golubaya-roza.jpg</image>
+    <author></author>
+    <publisher>Стайл</publisher>
+    <city>СПб</city>
+    <year>1992</year>
+    <description>Сборник мифов для детей</description>
+    <pagenum>288 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>Туризм глазами географа</name>
+    <author>Ю. С. Путрик, В. В. Свешников</author>
+    <image>turizm-glazami-geografa.jpg</image>
+    <publisher>Мысль</publisher>
+    <city>М.</city>
+    <year>1986</year>
+    <description>---</description>
+    <pagenum>158 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>О началах. Сочинение Оригена, учителя Александрийского</name>
+    <image>o-natchalah-origen.jpg</image>
+    <author></author>
+    <publisher>Лазарев В. В. и О.</publisher>
+    <city>--</city>
+    <year>1993</year>
+    <description>Философия</description>
+    <pagenum>384 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Исторические анекдоты из жизни русских замечательных людей</name>
+    <image>istoritcheskie-anekdoti-krivoshlik.jpg</image>
+    <author>М. Г. Кривошлык</author>
+    <publisher>Совместное советско-австрийское предприятие "Х. Г. С."</publisher>
+    <city>М.</city>
+    <year>1990</year>
+    <description>Анекдоты, репринтное издание</description>
+    <pagenum>188 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>Избранные труды по эстетике, том 2</name>
+    <image>izbrannie-trudi-po-estetike-mering.jpg</image>
+    <author>Франц Меринг</author>
+    <publisher>Искусство</publisher>
+    <city>М.</city>
+    <year>1985</year>
+    <description>Эстетика</description>
+    <pagenum>460 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Философия &#8212; разное">
+    <name>Приготовительная школа эстетики</name>
+    <image>prigotovitel`naya-shkola-estetiki-zhan-pol`.jpg</image>
+    <author>Жан-Поль</author>
+    <publisher>Искусство</publisher>
+    <city>М.</city>
+    <year>1981</year>
+    <description>Эстетика</description>
+    <pagenum>448 стр.</pagenum>
+    <condition>целая (первый форзац отрывается)</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Приключения Карандаша и Самоделкина</name>
+    <author>Ю. Дружков</author>
+    <publisher>Элен-Квадро</publisher>
+    <city>М.</city>
+    <year>1993</year>
+    <description>Сказка</description>
+    <pagenum>352 стр.</pagenum>
+    <condition>--</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Федоскины каникулы</name>
+    <image>fedoskini-kanikuli.jpg</image>
+    <author>Славкович Д. Ф.</author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1980</year>
+    <description>Повесть</description>
+    <pagenum>143 стр.</pagenum>
+    <condition>драная обложка</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Человек и время. История человеческого становления</name>
+    <image>tchelovek-i-vremya-shaginyan.jpg</image>
+    <author>Мариетта Шагинян</author>
+    <publisher>Советский писатель</publisher>
+    <city>М.</city>
+    <year>1982</year>
+    <description>Автобиография</description>
+    <pagenum>558 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Приключения Тома Сойера</name>
+    <image>priklyucheniya-toma-soyera.jpg</image>
+    <author>Марк Твен</author>
+    <publisher>Юнацтва</publisher>
+    <city>Минск</city>
+    <year>1991</year>
+    <description>Роман</description>
+    <pagenum>270 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Отцы и дети</name>
+    <image>ottci-i-deti-turgenev.jpg</image>
+    <author>Тургенев И. С.</author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1975</year>
+    <description>Роман</description>
+    <pagenum>240 стр.</pagenum>
+    <condition>потрёпанная</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Крепость солдатских сердец</name>
+    <image>krepost`-soldatskih-serdetc-pirogov.jpg</image>
+    <author>Андрей Пирогов</author>
+    <publisher>Советская Россия</publisher>
+    <city>М.</city>
+    <year>1974</year>
+    <description></description>
+    <pagenum>174 стр.</pagenum>
+    <condition>мягкая обложка</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Шагреневая кожа. Полковник Шабер. Отец Горио. Обедня безбожника</name>
+    <image>shagrenevaya-kozha-bal`zak.jpg</image>
+    <author>Оноре де Бальзак</author>
+    <publisher>Художественная литература</publisher>
+    <city>М.</city>
+    <year>1982</year>
+    <description></description>
+    <pagenum>336 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Муть. Мухаджиры</name>
+    <image>mut`-galyau.jpg</image>
+    <author>Махмуд Галяу</author>
+    <publisher>Татарское книжное издательство</publisher>
+    <city>Казань</city>
+    <year>1982</year>
+    <description>Романы</description>
+    <pagenum>448 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Челны - Арзгир</name>
+    <image>chelni-arzgir-gladkov.jpg</image>
+    <author>Виктор Гладков</author>
+    <publisher>Татарстанское отделение Союза российских писателей</publisher>
+    <city>Набережные Челны</city>
+    <year>2006</year>
+    <description>Поэма</description>
+    <pagenum>176 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Ущелье Дьявола. Графиня Салисбюри</name>
+    <image>dyuma-uschel`e-d`yavola.jpg</image>
+    <author>Александр Дюма</author>
+    <publisher>РИО "КВЕСТ"</publisher>
+    <city>Ижевск</city>
+    <year>1991</year>
+    <description>Романы</description>
+    <pagenum>528 стр.</pagenum>
+    <condition>прекрасное состояние</condition>
+  </book>
+  <book category="Детективы">
+    <name>Туз в рукаве</name>
+    <image>tuz-v-rukave-tcheyz.jpg</image>
+    <author>Дж. Х. Чейз</author>
+    <publisher>Книжный двор</publisher>
+    <city>М.</city>
+    <year>1991</year>
+    <description>Детектив</description>
+    <pagenum>172 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Ненаписанные романы</name>
+    <image>nenapisannie-romani-semyonov.jpg</image>
+    <author>Юлиан Семёнов</author>
+    <publisher>ДЭМ</publisher>
+    <city>М.</city>
+    <year>1990</year>
+    <description>Повести</description>
+    <pagenum>288 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Детективы">
+    <name>Печальный кипарис. Нелепый домишко.</name>
+    <author>Агата Кристи</author>
+    <publisher>ДЭМ</publisher>
+    <city>М.</city>
+    <year>1991</year>
+    <description>Детективы</description>
+    <pagenum>368 стр.</pagenum>
+    <condition>разваливается</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Братья Лаутензак</name>
+    <image>brat`ya-lautenzak.jpg</image>
+    <author>Лион Фейхтвангер</author>
+    <publisher>ДЭМ</publisher>
+    <city>М.</city>
+    <year>1991</year>
+    <description>Рассказы</description>
+    <pagenum>336 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Избранное</name>
+    <author>Велемир Хлебников</author>
+    <image>hlebnikov-izbrannoe.jpg</image>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1988</year>
+    <description>Художественная литература</description>
+    <pagenum>126 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Разнотравье</name>
+    <image>raznotrav`e-antonov.jpg</image>
+    <author>Сергей Антонов</author>
+    <publisher>Советская Россия</publisher>
+    <city>М.</city>
+    <year>1985</year>
+    <description>Повести, рассказы</description>
+    <pagenum>544 стр.</pagenum>
+    <condition>потрёпанная</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Принц Каспиан. </name>
+    <author>Клайв Стейплз Льюис</author>
+    <publisher>РИО "Квест"</publisher>
+    <city>Ижевск</city>
+    <year>1992</year>
+    <description>Нарния, хроники 4</description>
+    <image>hroniki-narnii-chast`-4.jpg</image>
+    <pagenum>352 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Весёлый третий</name>
+    <image>vesyoliy-tretiy-kiselyova.jpg</image>
+    <author>М. Киселёва</author>
+    <publisher>Советская Россия</publisher>
+    <city>М.</city>
+    <year>1972</year>
+    <description>Детская повесть</description>
+    <pagenum>188 стр.</pagenum>
+    <condition>оторван корешок</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Охота жить</name>
+    <image>ohota-zhit`-shukshin.jpg</image>
+    <author>В. Шукшин</author>
+    <publisher>Татарское книжное издательство</publisher>
+    <city>Казань</city>
+    <year>1977</year>
+    <description>Рассказы</description>
+    <pagenum>224 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Сказки">
+    <name>Приключения животных</name>
+    <image>priklyucheniya-zhivotnih.jpg</image>
+    <author>--</author>
+    <publisher>Республика</publisher>
+    <city>--</city>
+    <year>1993</year>
+    <description>Сборник рассказов</description>
+    <pagenum>512 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Русские женщины</name>
+    <image>russkie-zhenschini-nekrasov.jpg</image>
+    <author>Н. А. Некрасов</author>
+    <publisher>Детская литература</publisher>
+    <city>М.</city>
+    <year>1972</year>
+    <description></description>
+    <pagenum>96 стр.</pagenum>
+    <condition>потрёпанная</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Сердце матери</name>
+    <image>serdtse-materi.jpg</image>
+    <author>Зоя Воскресенская</author>
+    <publisher>Детская литература</publisher>
+    <city></city>
+    <year>1990</year>
+    <description>Рассказы из жизни Марии Александровны Ульяновой</description>
+    <pagenum>239 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Классическая литература">
+    <name>Избранная проза</name>
+    <image>izbrannaya-proza-dostoevskiy.jpg</image>
+    <author>Ф. М. Достоевский</author>
+    <publisher>Правда</publisher>
+    <city></city>
+    <year>1990</year>
+    <description>Проза</description>
+    <pagenum>464 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Путешествие пилигрима в небесную страну</name>
+    <image>puteshestvie-piligrima-bun`yan.jpg</image>
+    <author>Джон Буньян</author>
+    <publisher>СП "Подиум"</publisher>
+    <city></city>
+    <year>1991</year>
+    <description>Аллегорический рассказ (фантазия), репринт</description>
+    <pagenum>376 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Обнажённая Маха</name>
+    <image>obnazhyonnaya-maha-anais-nin.jpg</image>
+    <author>Анаис Нин</author>
+    <publisher>Юлвар</publisher>
+    <city>Казань</city>
+    <year>1991</year>
+    <description>Эротические рассказы</description>
+    <pagenum>128 стр.</pagenum>
+    <condition>мятая</condition>
+  </book>
+  <book category="Художественная литература &#8212; разное">
+    <name>Эй, на "Еруслане"!</name>
+    <image>ey-na-eruslane-tchernuschenko-forzatc.jpg</image>
+    <image>ey-na-eruslane-tchernuschenko-oblozhka.jpg</image>
+    <author>П. А. Чернущенко</author>
+    <publisher>Волгоградское книжное изд-во</publisher>
+    <city>Волгоград</city>
+    <year>1962</year>
+    <description>Повесть</description>
+    <pagenum>144 стр.</pagenum>
+    <condition>драная обложка</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Дневник для Стеллы</name>
+    <image>dnevnik-dlya-stelli-svift.jpg</image>
+    <author>Свифт</author>
+    <publisher>Наука</publisher>
+    <city>М.</city>
+    <year>1981</year>
+    <description>Переписка</description>
+    <pagenum>624 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+	<book category="Художественная литература &#8212; разное">
+    <name>Избранное</name>
+    <author>В. М. Гаршин</author>
+    <image>izbrannoe-garshin.jpg</image>
+    <publisher>Правда</publisher>
+    <city></city>
+    <year>1984</year>
+    <description>Рассказы</description>
+    <pagenum>416 стр.</pagenum>
+    <condition>целая</condition>
+  </book>
+  <book category="Для школьного возраста">
+    <name>Стихи и рассказы</name>
+    <author>Пушкин</author>
+    <publisher>Детгиз</publisher>
+    <city>М.</city>
+    <year>1958</year>
+    <image>stihi-i-skazki-pushkin.jpg</image>
+    <description>Стихи и рассказы</description>
+    <pagenum>192 стр.</pagenum>
+    <condition>мятая</condition>
+  </book>
+  <book category="Поэзия">
+    <name>Стихотворения и поэмы</name>
+    <author>А. Блок</author>
+    <image>stihotvoreniya-i-poemi-blok.jpg</image>
+    <publisher>Художественная литература</publisher>
+    <city></city>
+    <year>1977</year>
+    <description></description>
+    <pagenum>192 стр.</pagenum>
+    <condition>потрёпанная мягкая обложка</condition>
+  </book>
+</books>
